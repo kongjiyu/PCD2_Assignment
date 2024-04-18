@@ -38,6 +38,3 @@ git clone https://github.com/microsoft/vcpkg.git
 - Integrate to link to visual studio code
 ```cmd
 .\vcpkg integrate install
-```
-
-```
