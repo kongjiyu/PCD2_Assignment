@@ -22,6 +22,7 @@ git clone https://github.com/microsoft/vcpkg.git
 
 - download vcpkg
 ```cmd
+cd .\vcpkg
 .\bootstrap-vcpkg.bat
 ```
 
