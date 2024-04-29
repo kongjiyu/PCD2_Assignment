@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\kongj\source\repos\PCD_Assignment_MemberModule\PCD_Assignment_MemberModule\main.c(822,21): warning C4101: 'departureStationSelection': unreferenced local variable
+C:\Users\kongj\source\repos\PCD_Assignment_MemberModule\PCD_Assignment_MemberModule\main.c(822,6): warning C4101: 'laneSelection': unreferenced local variable
+C:\Users\kongj\source\repos\PCD_Assignment_MemberModule\PCD_Assignment_MemberModule\main.c(822,48): warning C4101: 'destinationStationSelection': unreferenced local variable
+C:\Users\kongj\source\repos\PCD_Assignment_MemberModule\PCD_Assignment_MemberModule\main.c(1004,14): warning C4101: 'index': unreferenced local variable
+  PCD_Assignment_MemberModule.vcxproj -> C:\Users\kongj\source\repos\PCD_Assignment_MemberModule\x64\Debug\PCD_Assignment_MemberModule.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
