@@ -39,3 +39,10 @@ cd .\vcpkg
 - Integrate to link to visual studio code
 ```cmd
 .\vcpkg integrate install
+```
+
+## 4. Download this repo
+- Click code → download file as Zip
+- Extract the file
+- Open PCD_Assignment_MemberModule Folder
+- Open PCD_Assignment_MemberModule.sln file and use microsoft visual studio
